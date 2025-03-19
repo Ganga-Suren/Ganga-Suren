@@ -4,8 +4,6 @@
 - Have two years experience as Full Stack developer.
 - I'm good in developing webpages, testing the code, handling the code using GIT, collecting, refining, analysing and visualizing data.
 - I love to do things in creative way rather than normal way.
-- My LinkedIn profile is https://www.linkedin.com/in/ganga-surendra-basva-14239317a/
-  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/surendrabasva?igsh=MTNzMzk5OXRqcXdjdQ==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ganga-surendra-basva-14239317a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:basvag34@students.rowan.edu) 
